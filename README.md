@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pb2640
+- 👋 Hi, I’m Parth Bhardwaj
 - 👀 I’m interested in visualizing data and data mining
 - 🌱 I’m currently learning Operating Systems(xv6)
 - 💞️ I’m looking to collaborate on ...
