@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Parth Bhardwaj
 - 👀 I’m interested in visualizing data and data mining
-- 🌱 I’m currently learning Operating Systems(xv6)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Django, Big Data
+- 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me : Send an email on pb2640@nyu.edu
 
 <!---
